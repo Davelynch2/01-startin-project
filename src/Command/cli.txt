@@ -1,0 +1,9 @@
+//create new project
+ng project-name
+
+// start
+ng serve
+npm start
+
+// install
+npm install
