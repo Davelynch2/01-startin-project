@@ -7,3 +7,6 @@ npm start
 
 // install
 npm install
+
+// create component
+ng g c component_name
